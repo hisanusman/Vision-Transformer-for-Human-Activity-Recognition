@@ -114,7 +114,7 @@ pip install torch torchvision transformers pandas opencv-python matplotlib
 
 ### Acknowledgments
 
-- The [HMDB dataset](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/) creators for the dataset used in this project.
+- The [HMDB dataset](https://www.kaggle.com/datasets/avigoen/hmdb-human-activity-recognition/data) creators for the dataset used in this project.
 - Hugging Face for providing the Vision Transformer (ViT) model used in this implementation.
 
 ---
