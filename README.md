@@ -2,7 +2,7 @@
 
 Task: Human Action Recognition
 Human action recognition in videos involves identifying and categorizing different activities or movements displayed in frames. The Vision Transformer (ViT) model, traditionally used for image classification, will be fine-tuned to recognize actions from short video clips. The model will distinguish among multiple action classes by learning patterns across frames.
-<br>
+
 The HMDB (Human Motion Database) dataset is a well-known benchmark for human action recognition. It features over 6,800 video clips across 51 action categories, such as running, eating, and waving. This dataset includes real-world, dynamic actions from various sources, providing diverse and challenging scenarios for testing action recognition models.
 
 1. Dataset Preprocessing <br>
